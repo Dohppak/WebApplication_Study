@@ -1,0 +1,12 @@
+{
+  "name": "Advance_css",
+  "version": "1.0.0",
+  "description": "Hello, Its for css advance",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}

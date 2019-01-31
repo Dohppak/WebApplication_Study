@@ -3,7 +3,8 @@ import resetCSS from "reset-css";
 
 const GlobalStyle = createGlobalStyle`
     ${resetCSS};
-    @import url('https://font.googleapis.com/css?family=Nunito+Sans:400,700);
+    @import url('https://font.googleapis.com/css?family=Nunito+Sans:400,700');
+    
     body{
         margin:0;
         padding :0;
