@@ -7,6 +7,7 @@
   "author": "Dohppak",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-cli": "^6.26.0",
     "graphql-yoga": "^1.17.4"
   },
